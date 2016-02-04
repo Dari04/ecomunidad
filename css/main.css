@@ -1,0 +1,379 @@
+
+
+.inicio{
+	background-color:white;
+	height: 100px;
+}
+.logo{
+	height: 75px;
+	width: 85px;
+	position: relative;
+	right: 100px;
+	margin-top: 10px;
+}
+
+nav{
+	position: relative;
+	bottom: 60px;
+	left: 220px;
+	font-size: 15px;
+	text-align: center;
+}
+
+ul li {
+	display: inline-block;
+	position: relative;
+	margin: 13px;
+	color: #9A9AA6;
+}
+a{
+	text-decoration: none;
+	color: black;
+	padding-right: 20px;
+	font-family: Arial;
+	color: #9A9AA6;
+}
+.background{
+	background-image: url("../img/semilla.jpg");
+	height: 330px;
+	background-repeat:  none;
+	background-position:50%; 
+	background-size: cover;
+}
+.grey{
+	background-color:#F2F2F2;
+	height: 160px;
+}
+.informacion{
+	height: 310px;
+	
+}
+.mision{
+	height: 145px;
+	width: 145px;
+}
+.texto{
+	color: #9A9AA6;
+	font-family: Arial;
+	font-size: 14px;
+	position: relative;
+	left: 100px;
+	top: 60px;
+}
+.centro{
+	margin-top: 65px;
+}
+.ion{
+	font-family:Arial;
+}
+
+.izquierdo{
+	position: relative;
+	right: 65px;
+}
+.derecho{
+	position: relative;
+	left: 95px;
+}
+.lorem{
+	font-family:Arial;
+	color:#9A9AA6;
+	font-size: 13px;
+}
+.verde{
+	height: 390px;
+}
+.persona{
+	background-image:url("../img/metodo.jpg");
+	height: 350px;
+	background-repeat:  none;
+	background-size: cover;
+}
+.green{
+	background-image:url("../img/fondo.jpg");
+	height: 350px;
+	background-repeat:  none;
+	background-size: cover;
+}
+.metodologia{
+	text-align: center;
+	color: white;
+	font-family: Arial;
+	position: relative;
+	top: 85px;
+	right: 30px;
+
+}
+.logia{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	font-size: 19px;
+}
+.resumen{
+	font-size: 14px;
+	position: absolute;
+	left: 30px;
+}
+
+
+
+.servicios{
+	height:140px;
+}
+.servi{
+	position: relative;
+	left: 60px;
+	top: 30px;
+}
+
+.titulo{
+	font-family: Arial;
+	position: relative;
+	bottom: 15px;
+}
+.parrafo{
+	color: grey;
+	font-family: Arial;
+	font-size: 14px;
+}
+.circulos{
+	height: 560px;
+}
+.imagen{
+	height: 130px;
+	width: 130px;
+	position: relative;
+	left: 75px;
+}
+.nombre{
+	font-family: Arial;
+	color: #5E8039;
+	font-size:14px; 
+	text-align: center;
+}
+.letras{
+	font-family: Arial;
+	color: grey;
+	font-size: 13px;
+	text-align: center;
+	margin-top: 20px;
+}
+.right{
+	position: relative;
+	right: 100px;
+}
+.left{
+	position: relative;
+	left: 100px;
+}
+.abajo{
+	position: relative;
+	top: 60px;
+}
+.consul{
+	width: 500px;
+	position: relative;
+	right: 100px;
+}
+.fotos{
+	background-color: #5E8039;
+	height: 710px;
+
+}
+.proyectos{
+	font-family: Arial;
+	color: white;
+	position: absolute;
+	top: 75px;
+	left: 10px;
+}
+.foto{
+	position: relative;
+	right: 110px;
+}
+
+.niñas{
+	height: 280px;
+	width: 420px;
+	margin-top: 100px;
+}
+.carrito{
+	height: 280px;
+	width: 420px;
+}
+.proyect{
+	text-align: center;
+	position: relative;
+	left: 80px;
+	top: 150px;
+	color: white;
+	font-family: Arial;
+}
+.text{
+	font-size: 14px;
+}
+.two{
+	margin-top: 200px;
+}
+.team{
+	height: 560px;
+}
+.equipo{
+	font-family: Arial;
+	text-align: center;
+	margin-top: 70px;
+}
+
+.chicas{
+	width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    overflow: hidden; 
+    margin-bottom: 30px;
+ }
+.letter{
+	font-family: Arial;
+	color: #5E8039;
+	font-size:20px;
+	position: relative;
+	right: 100px;
+	top: 60px;
+}
+.cargo{
+	font-size: 17px;
+}
+.ipsum{
+	width: 320px;
+	font-size: 15px;
+	margin-left: 50px;
+}
+.uno{
+	position: relative;
+	right: 80px;
+}
+.dos{
+	position: relative;
+	top: 20px;
+}
+.social{
+	height: 35px;
+	width: 35px;
+	position: relative;
+	top: 35px;
+	right: 4px;
+}
+.twitter{
+	margin-right:5px;
+}
+.mensaje{
+	margin-left:5px;
+}
+.fondo{
+	background-image: url("../img/fondo2.jpg");
+	height: 500px;
+}
+.guys{
+	height: 190px;
+	width: 300px;
+}
+.photo{
+	color:#4D4D4D;
+	font-family:Arial;
+	margin-top: 60px;
+}
+.dolor{
+	font-size: 14px;
+}
+.children{
+	position: relative;
+	right: 80px;
+}
+.children2{
+	position: relative;
+	left: 80px;
+}
+.slider1{
+	position: relative;
+	right:150px;
+	top: 230px;
+}
+.slider2{
+	position: relative;
+	left:1020px;
+	top: 230px;
+}
+.gris{
+	background-color: #4D4D4D;
+	height: 500px;
+	font-family: Arial;
+	color: white;
+}
+.cuadrado{
+	border: 1px solid white;
+	height: 200px;
+	width:200px;
+}
+.red{
+	height: 35px;
+	width: 35px;
+}
+.facebook{
+	position: relative;
+	top: 20px;
+	left: 20px;
+}
+.contactos{
+
+	background-color: #4D4D4D;
+	height: 300px;
+}
+.red{
+	padding-top: 50px;
+	border:1px solid white;
+	height: 230px;
+	width: 295px;
+	font-family:Arial;
+	font-size: 20px;
+	color:white;
+	position: relative;
+	left: 65px;
+
+
+}
+.medios{
+	margin-left: 4px;
+	position: relative;
+	top: 35px;
+}
+.represent{
+	margin-left: 180px;
+	margin-top:90px;
+}
+.comunication{
+	height: 100px;
+	padding: 40px;
+}
+.final{
+	font-family:Arial;
+	color :#4D4D4D;
+	font-size: 14px;
+}
+.post{
+	font-family:Arial;
+	font-size: 16px;
+}
+.time{
+	font-family:Arial;
+	font-size:14px;
+}
+.texto{
+	font-family:Arial;
+	font-size: 14px;
+}
+.num{
+	font-family:Arial;
+	color :#4D4D4D;
+	font-size: 14px;
+}
+
+
